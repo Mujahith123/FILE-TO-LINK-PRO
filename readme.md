@@ -64,21 +64,6 @@ By using this code, you accept these terms and conditions, agreeing that all ris
 💥All unwanted code removed. <br>
 💥A lot more tired of writing check out by deploying it. 
 </details>
-<details>
-  <summary><b>Host it on VPS Locally :</b></summary>
-  <details>
-  <summary><b>Deploy on Ubuntu<b></summary>
-  If you are on Ubuntu, there's a 10 times easier way to deploy this bot. Just copy the command below and you're good to go.
-  
-  ```sh
-  apt-get update -y && apt-get upgrade -y && apt-get install curl -y && curl https://raw.githubusercontent.com/adarsh-goel/FileStreamBot-pro/main/script.sh -o script.sh && bash script.sh
-  ```
-
-  and to stop the whole bot,
- do <kbd>CTRL</kbd>+<kbd>C</kbd>
-
-  </details>
-
   <details>
   <summary><b>Deploy on Windows or other plataform<b></summary>
   
@@ -99,11 +84,11 @@ and to stop the whole bot,
  do <kbd>CTRL</kbd>+<kbd>C</kbd>
 
  </details>
+</details>
+<details>
+  <summary><b>Vars and Details :</b></summary>
 
-Setting up things
-
-If you're on Heroku, just add these in the Environmental Variables
-or if you're Locally hosting, create a file named `config.env` in the root directory and add all the variables there.
+Create a file named `config.env` in the root directory and add all the variables there.
 An example of `config.env` file:
 
 ```py
@@ -116,11 +101,6 @@ FQDN=your_server_ip
 OWNER_ID=your_user_id
 DATABASE_URL=mongodb_uri
 ```
-  </details>
-
-<details>
-  <summary><b>Vars and Details :</b></summary>
-
 `API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
 
 `API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
