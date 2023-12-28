@@ -17,12 +17,12 @@ async def maintainers(b,m):
     except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="I am Coded By [𝙇𝙀𝙊 𝙏𝙂 🇮🇳 ℡ ️️](https://t.me/user_is_leo)",
+                    text="I am Coded By [𝙇𝙀𝙊 𝙏𝙂 🇮🇳 ℡ ️️](https://t.me/leotgadmin_bot)",
                     
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("Developer💻", url=f"https://t.me/user_is_leo")
+                                InlineKeyboardButton("Developer💻", url=f"https://t.me/leotgadmin_bot")
                             ]
                         ]
                     ),
