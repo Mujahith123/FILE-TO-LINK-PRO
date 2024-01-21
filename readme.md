@@ -1,21 +1,21 @@
-![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/filestreambot-pro?style=flat&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot-pro?color=green)
-![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot-pro?color=green)
+![GitHub contributors](https://img.shields.io/github/contributors/Mujahith123/FILE-TO-LINK-PRO?style=flat&color=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mujahith123/FILE-TO-LINK-PRO?color=green)
+![GitHub](https://img.shields.io/github/license/Mujahith123/FILE-TO-LINK-PRO?color=green)
 
 
 <h1 align="center"></h1>
 <p align="center"> 
-  <img src="https://socialify.git.ci/adarsh-goel/filestreambot-pro/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <img src="https://socialify.git.ci/Mujahith123/FILE-TO-LINK-PRO/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
   
  <p align="center">
-    A Telegram bot to turn all media and documents files to instant direct download and stream link .
+    A Telegram bot to turn all media and documents files to instant direct download and stream link Always Channel Support.
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/adarsh-goel/pro/issues">Report a Bug</a>
+    <a href="https://github.com/Mujahith123/FILE-TO-LINK-PRO/issues">Report a Bug</a>
     |
-    <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
+    <a href="https://github.com/Mujahith123/FILE-TO-LINK-PRO/issues">Request Feature</a>
   </p>
 
 
@@ -40,8 +40,6 @@ Thank you for your interest in this project, and we appreciate your understandin
 <hr>
 
 ## 🍁 About This Bot :
-
-![streamingfilestreambot-professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
 
 </p>
 <p align='center'>
@@ -69,16 +67,15 @@ Thank you for your interest in this project, and we appreciate your understandin
 💥Real time CPU , RAM , Internet usage. <br>
 💥Custom Domain support. <br>
 💥All unwanted code removed. <br>
-💥A lot more tired of writing check out by deploying it. 
+💥A lot more tired of writing check out by deploying it.
+😍 Advanced Stream Template
+😍 Fastest Bot 
+😍 All Server Support 
 </details>
-  <details>
-  <summary><b>Deploy on Windows or other plataform<b></summary>
-  
-  You should make sure you have Python 3.6+ installed on your PC, then clone this repo and run the following commands in a terminal:
-
+ 
 ```py
-git clone https://github.com/adarsh-goel/filestreambot-pro
-cd filestreambot-pro
+git clone https://github.com/Mujahith123/FILE-TO-LINK-PRO
+cd FILE-TO-LINK-PRO
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -161,5 +158,11 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Me](https://github.com/adarsh-goel)
+- [Adarsh](https://github.com/adarsh-goel)
+
+- [𓊈𒆜. ɪᴛ'ꜱ ʟᴜғғʏ 𒆜𓊉](https://telegram.me/CoderluffyTG)
+
+- [ME 😂](https://telegram.me/user_is_leo)
+
+
 - Everyone In This Journey !
