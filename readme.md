@@ -173,7 +173,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=">
+<a href="https://heroku.com/deploy?template=https://github.com/Mujahith123/FILE-TO-LINK-PRO">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -185,7 +185,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TeamHMT/Auto-search-tamil-bot&branch=main&name=Auto-search-tamil-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Mujahith123/FILE-TO-LINK-PRO&branch=main&name=FILE-TO-LINK-PRO)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -194,10 +194,10 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 Use these commands:
 <br>
 <br>
-• Build Command: <code>pip3 install -U -r requirements.txt</code>
+• Build Command: <code>pip3 install -r requirements.txt</code>
 <br>
 <br>
-• Start Command: <code>python3 bot.py</code>
+• Start Command: <code>python3 m-Adarsh</code>
 <br>
 <br>
 Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
@@ -212,7 +212,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/TeamHMT/Auto-search-tamil-bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/Mujahith123/FILE-TO-LINK-PRO/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -220,11 +220,11 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/TeamHMT/Auto-search-tamil-bot
+git clone https://github.com/Mujahith123/FILE-TO-LINK-PRO
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
-python3 bot.py
+python3 m-Adarsh
 </pre>
 </p>
 </details>
