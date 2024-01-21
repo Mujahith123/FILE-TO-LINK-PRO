@@ -141,7 +141,7 @@ DATABASE_URL=mongodb_uri
 
 `FQDN` :  A Fully Qualified Domain Name if present. Defaults to `WEB_SERVER_BIND_ADDRESS'
 
-'PYTHON_VERSION` : Give Value '3.10.8' Add this must you don't add this variable bot not working properly ok. </details>
+`PYTHON_VERSION` : Give Value `3.10.8` Add this must you don't add this variable bot not working properly ok. </details>
 
 
 <details>
