@@ -81,19 +81,6 @@ Thank you for your interest in this project, and we appreciate your understandin
 😍 All Server Support 
 </details>
  
-```py
-git clone https://github.com/Mujahith123/FILE-TO-LINK-PRO
-cd FILE-TO-LINK-PRO
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-python3 -m Adarsh
-```
-
-
-
-and to stop the whole bot,
- do <kbd>CTRL</kbd>+<kbd>C</kbd>
 
  </details>
 </details>
@@ -202,10 +189,10 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 Use these commands:
 <br>
 <br>
-• Build Command: <code>pip3 install -r requirements.txt</code>
+• Build Command: <code>pip install -r requirements.txt</code>
 <br>
 <br>
-• Start Command: <code>python3 m-Adarsh</code>
+• Start Command: <code>python3 -m Adarsh</code>
 <br>
 <br>
 Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
